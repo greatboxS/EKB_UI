@@ -1,0 +1,18 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\bin\x64\Debug\_SERVER.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\bin\x64\Debug\_SERVER.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\bin\x64\Debug\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\bin\x64\Debug\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\bin\x64\Debug\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\obj\x64\Debug\_SERVER.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\obj\x64\Debug\_SERVER.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\obj\x64\Debug\_SERVER.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\_SERVER\obj\x64\Debug\_SERVER.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\bin\x64\Debug\_SERVER.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\bin\x64\Debug\_SERVER.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\bin\x64\Debug\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\bin\x64\Debug\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\bin\x64\Debug\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\obj\x64\Debug\_SERVER.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\obj\x64\Debug\_SERVER.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\obj\x64\Debug\_SERVER.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\_SERVER\obj\x64\Debug\_SERVER.csprojAssemblyReference.cache

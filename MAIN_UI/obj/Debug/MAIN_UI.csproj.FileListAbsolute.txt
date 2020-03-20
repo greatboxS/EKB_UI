@@ -1,0 +1,240 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csprojAssemblyReference.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.MFORM.resources
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.Properties.Resources.resources
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csproj.GenerateResource.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\_SERVER.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\_SERVER.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.exe.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.exe.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.exe
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.dll
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EPPlus.dll
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.exe
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.exe
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.exe
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\_SERVER.dll
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.exe
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.exe
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.exe.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.exe.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.exe.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\_SERVER.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.xml
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\EPPlus.xml
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.dll.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.exe.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.pdb
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.exe.config
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csprojAssemblyReference.cache
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.MFORM.resources
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.Properties.Resources.resources
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csproj.GenerateResource.cache
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csproj.CopyComplete
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.exe
+C:\Users\kha.le\OneDrive\RevolutionTwo\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EPPlus.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\_SERVER.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\_SERVER.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\EPPlus.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.MFORM.resources
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.Properties.Resources.resources
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csproj.GenerateResource.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.exe.config
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.exe.config
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.exe
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\MAIN_UI.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EPPlus.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.exe
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.exe
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.exe
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\Newtonsoft.Json.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\_SERVER.dll
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.exe
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.exe
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EXCEL_TO_DATABASE.exe.config
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\MANAGER_FORM.exe.config
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\FViewSequence.exe.config
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\_SERVER.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\BEAMCUT_TASK.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\BUILDING.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\COMPONENT.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_HIS.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_SYS_LIB.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EKANBAN_TASK.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EMPLOYEE.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.xml
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\EPPlus.xml
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\Newtonsoft.Json.xml
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\SCHEDULE.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\SEQUENCE.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\STOCK_MANAGEMENT.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\SYS_MODELS.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\LOGIN_UI.exe.config
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.pdb
+E:\EKANBAN_UI\MAIN_UI\bin\Debug\PrintForm.exe.config
+E:\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csprojAssemblyReference.cache
+E:\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.MFORM.resources
+E:\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.Properties.Resources.resources
+E:\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.Views.EditScheduleForm.resources
+E:\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csproj.GenerateResource.cache
+E:\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.csproj.CopyComplete
+E:\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.exe
+E:\EKANBAN_UI\MAIN_UI\obj\Debug\MAIN_UI.pdb

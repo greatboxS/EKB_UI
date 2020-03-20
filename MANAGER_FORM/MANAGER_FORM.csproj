@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7BFD7D32-A68C-4A2C-8178-F65C29B37D67}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MANAGER_FORM</RootNamespace>
+    <AssemblyName>MANAGER_FORM</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BEAMCUT_TASK, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\BEAMCUT_TASK\obj\x86\Release\BEAMCUT_TASK.dll</HintPath>
+    </Reference>
+    <Reference Include="BUILDING, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\BUILDING\obj\x86\Release\BUILDING.dll</HintPath>
+    </Reference>
+    <Reference Include="COMPONENT, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\COMPONENT\obj\x86\Release\COMPONENT.dll</HintPath>
+    </Reference>
+    <Reference Include="EKANBAN_HIS, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\EKANBAN_HIS\obj\x86\Release\EKANBAN_HIS.dll</HintPath>
+    </Reference>
+    <Reference Include="EKANBAN_SYS_LIB, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x86\Release\EKANBAN_SYS_LIB.dll</HintPath>
+    </Reference>
+    <Reference Include="EKANBAN_TASK, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\EKANBAN_TASK\obj\x86\Release\EKANBAN_TASK.dll</HintPath>
+    </Reference>
+    <Reference Include="EMPLOYEE, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\EMPLOYEE\obj\x86\Release\EMPLOYEE.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SCHEDULE, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\SCHEDULE\obj\x86\Release\SCHEDULE.dll</HintPath>
+    </Reference>
+    <Reference Include="SEQUENCE, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\SEQUENCE\obj\x86\Release\SEQUENCE.dll</HintPath>
+    </Reference>
+    <Reference Include="STOCK_MANAGEMENT, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\STOCK_MANAGEMENT\obj\x86\Release\STOCK_MANAGEMENT.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="SYS_MODELS, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EKANBAN_SYS\SYS_MODELS\obj\x86\Release\SYS_MODELS.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="ZedGraph, Version=5.1.7.430, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZedGraph.5.1.7\lib\net35-Client\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\BDeviceChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BDeviceChart.Designer.cs">
+      <DependentUpon>BDeviceChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BeamInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BeamInterface.Designer.cs">
+      <DependentUpon>BeamInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\EkanbanHisControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\EkanbanHisControl.Designer.cs">
+      <DependentUpon>EkanbanHisControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\EkanbanItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\EkanbanItem.Designer.cs">
+      <DependentUpon>EkanbanItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MachineProgressViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MachineProgressViewer.Designer.cs">
+      <DependentUpon>MachineProgressViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\OrderDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\OrderDetail.Designer.cs">
+      <DependentUpon>OrderDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\OrderResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\OrderResult.Designer.cs">
+      <DependentUpon>OrderResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MANG_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MANG_FORM.Designer.cs">
+      <DependentUpon>MANG_FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BDeviceStatistic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\BDeviceStatistic.Designer.cs">
+      <DependentUpon>BDeviceStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BeamCutManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\BeamCutManager.Designer.cs">
+      <DependentUpon>BeamCutManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EKanbanHistories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\EKanbanHistories.Designer.cs">
+      <DependentUpon>EKanbanHistories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MachineTimeLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\MachineTimeLine.Designer.cs">
+      <DependentUpon>MachineTimeLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\OrderPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\OrderPage.Designer.cs">
+      <DependentUpon>OrderPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PrepareQuantity.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\PrepareQuantity.Designer.cs">
+      <DependentUpon>PrepareQuantity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controls\BDeviceChart.resx">
+      <DependentUpon>BDeviceChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BeamInterface.resx">
+      <DependentUpon>BeamInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\EkanbanHisControl.resx">
+      <DependentUpon>EkanbanHisControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\EkanbanItem.resx">
+      <DependentUpon>EkanbanItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MachineProgressViewer.resx">
+      <DependentUpon>MachineProgressViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\OrderDetail.resx">
+      <DependentUpon>OrderDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\OrderResult.resx">
+      <DependentUpon>OrderResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MANG_FORM.resx">
+      <DependentUpon>MANG_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\BDeviceStatistic.resx">
+      <DependentUpon>BDeviceStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\BeamCutManager.resx">
+      <DependentUpon>BeamCutManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\EKanbanHistories.resx">
+      <DependentUpon>EKanbanHistories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\MachineTimeLine.resx">
+      <DependentUpon>MachineTimeLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\OrderPage.resx">
+      <DependentUpon>OrderPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PrepareQuantity.resx">
+      <DependentUpon>PrepareQuantity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\SYS_MODELS.BDeviceOrder.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.BeamCutDevice.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.BeamCutInterface.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.Building.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.EKanbanAddHis.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.EKanbanDevice.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.EKanbanInterface.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.OriginalPO.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.ProductionLine.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.Schedule.datasource" />
+    <None Include="Properties\DataSources\SYS_MODELS.ScheduleClass.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LOGIN_UI\LOGIN_UI.csproj">
+      <Project>{8064ec3e-97b2-41b6-91c7-be610ae640f0}</Project>
+      <Name>LOGIN_UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\_SERVER\_SERVER.csproj">
+      <Project>{32540891-1efe-4bf6-b1e6-1ad895fa8272}</Project>
+      <Name>_SERVER</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="License-LGPL.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" />
+</Project>

@@ -1,0 +1,38 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\PrintForm.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\PrintForm.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\PrintForm.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\Geocoding.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.PRT_FORM.resources
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PrintForm.Properties.Resources.resources
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.SequenceItem.resources
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.csproj.GenerateResource.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PrintForm.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PrintForm.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\PrintForm.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\PrintForm.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\PrintForm.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EPPlus.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\Geocoding.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\EPPlus.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\bin\x64\Debug\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.PRT_FORM.resources
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PrintForm.Properties.Resources.resources
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.SequenceItem.resources
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.csproj.GenerateResource.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PRINT_FORM.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PrintForm.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_UI\PRINT_FORM\obj\x64\Debug\PrintForm.pdb
