@@ -23,7 +23,7 @@ namespace MANAGER_FORM.Pages
         BeamCutQuery BeamCutQuery = new BeamCutQuery(_SERVER.ServerName.Database);
         private BeamCutDevice BDevice = new BeamCutDevice();
         private DateTime ViewDate;
-        Timer Timer = new Timer { Enabled = true, Interval = 10000 };
+        Timer Timer = new Timer { Enabled = true, Interval = 60*1000*2 };
 
         void UpdateCurrentDateStatistic(BeamCutDevice device, DateTime date, int totalCutQty, int totalCutTime)
         {

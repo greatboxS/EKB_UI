@@ -27,9 +27,14 @@ namespace MANAGER_FORM.Controls
             {
                 lbStartTime.Text = BInterface.StartCutTime.ToString();
                 lbStopTime.Text = BInterface.StopCutTime.ToString();
+                BeamCutQuery beamCutQuery = new BeamCutQuery(_SERVER.ServerName.Database);
                 ScheduleQuery scheduleQuery = new ScheduleQuery(_SERVER.ServerName.Database);
                 SequenceQuery sequenceQuery = new SequenceQuery(_SERVER.ServerName.Database);
                 BuildingQuery buildingQuery = new BuildingQuery(_SERVER.ServerName.Database);
+
+                var clone_po = beamCutQuery.GetBeamCutPo(BInterface.BeamCutPo_Id);
+                lbTotalPoCutQty.Text = clone_po.CuttingQuantity.ToString();
+                lbComponent.Text = clone_po.ComponentRef;
 
                 var po = sequenceQuery.GetOriginalPo(ShareFuncs.GetInt(BInterface.OriginalPo_Id));
                 var schedule = scheduleQuery.GetSchedule(ShareFuncs.GetInt(BInterface.Schedule_Id));
@@ -50,7 +55,8 @@ namespace MANAGER_FORM.Controls
                 DS_Po.DataSource = schedule;
                 lbLine.Text = buildingQuery.GetProductionLine(ShareFuncs.GetInt(schedule.ProductionLine_Id)).LineName;
             }
-            catch {
+            catch
+            {
                 this.Hide();
                 Error = true;
                 return;

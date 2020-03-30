@@ -33,4 +33,3 @@ E:\EKANBAN_UI\_SERVER\bin\x86\Debug\SYS_MODELS.pdb
 E:\EKANBAN_UI\_SERVER\obj\x86\Debug\_SERVER.csproj.CopyComplete
 E:\EKANBAN_UI\_SERVER\obj\x86\Debug\_SERVER.dll
 E:\EKANBAN_UI\_SERVER\obj\x86\Debug\_SERVER.pdb
-E:\EKANBAN_UI\_SERVER\obj\x86\Debug\_SERVER.csprojAssemblyReference.cache
