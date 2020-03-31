@@ -42,7 +42,6 @@ E:\EKANBAN_UI\PRINT_FORM\bin\x86\Debug\SCHEDULE.pdb
 E:\EKANBAN_UI\PRINT_FORM\bin\x86\Debug\SEQUENCE.pdb
 E:\EKANBAN_UI\PRINT_FORM\bin\x86\Debug\STOCK_MANAGEMENT.pdb
 E:\EKANBAN_UI\PRINT_FORM\bin\x86\Debug\SYS_MODELS.pdb
-E:\EKANBAN_UI\PRINT_FORM\obj\x86\Debug\PRINT_FORM.csprojAssemblyReference.cache
 E:\EKANBAN_UI\PRINT_FORM\obj\x86\Debug\PrintForm.exe.config
 E:\EKANBAN_UI\PRINT_FORM\obj\x86\Debug\PRINT_FORM.PRT_FORM.resources
 E:\EKANBAN_UI\PRINT_FORM\obj\x86\Debug\PrintForm.Properties.Resources.resources

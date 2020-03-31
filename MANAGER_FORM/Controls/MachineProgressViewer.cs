@@ -57,8 +57,11 @@ namespace MANAGER_FORM.Controls
 
             var BInterfaces = BeamCutQuery.GetBeamCutInterfaces(bdevice.id, startTime.Value, stopTime.Value);
 
-            if (BInterfaces == null)
-                return;
+            if (BInterfaces == null || BInterfaces.Count == 0)
+            {
+                var binf = BeamCutQuery.GetLastInterface(bdevice.id);
+                BInterfaces = new List<BeamCutInterface>(new BeamCutInterface[] { binf });
+            }
 
             MachineProgressLoader.Controls.Clear();
 
@@ -67,7 +70,7 @@ namespace MANAGER_FORM.Controls
             foreach (var item in BInterfaces)
             {
                 BeamInterface beamInterface = new BeamInterface(item, place);
-               
+
                 if (!beamInterface.Error)
                 {
                     MachineProgressLoader.Controls.Add(beamInterface, 0, row);
@@ -83,7 +86,7 @@ namespace MANAGER_FORM.Controls
             OrderDetail = new OrderDetail(orders);
             OrderTab.Controls.Add(OrderDetail);
             OrderDetail.Dock = DockStyle.Fill;
-            
+
         }
 
         public void UpdateOrderDetail(Schedule schedule)
